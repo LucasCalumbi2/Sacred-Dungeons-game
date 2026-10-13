@@ -1,6 +1,7 @@
 Sacred-Dungeons-game
 
-Sacred Dungeons tells the story of a priest who, fed up with the corruption of the world, sets out on a journey to defeat the Demon King. However, an unexpected twist changes the course of the story.  A game by Lucas Calumbi Toscano de Brito, Omar Khayyam Formiga Aguiar, and Gustavo Almeida Borba.
+Sacred Dungeons conta a história de um padre que após se cansar da corrupção do mundo, parte em uma aventura para derrotar o Rei demônio, porém algo inesperado muda o rumo da história. 
+Um jogo por Lucas Calumbi Toscano de Brito, Omar Khayyam Formiga Aguiar e Gustavo Almeida Borba
 
-How to launch the game?
-Download the ZIP file, extract its contents into a folder, and open the HTML file in your browser.
+como abrir o jogo? 
+baixe o arquivo zipado, extraia em uma pasta e clique para abrir o arquivo html no navegador.
